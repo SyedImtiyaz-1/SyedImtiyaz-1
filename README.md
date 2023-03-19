@@ -1,6 +1,6 @@
 # 💫 About Me:
 As a SDE, I specialize in building conplex and engaging user interfaces for web applications. <br><br>With a strong background in HTML, CSS, JavaScript and Typescript, I am able to bring design concepts to life and create dynamic and responsive user experiences. <br><br>I am also experienced in utilising frontend frameworks and libraries for design and development such as React-JS, Bootstrap, Tailwind, APIs and version control systems like Git.<br><br>Committed to developing high-quality, high-performance solutions that provide a consistent user experience. I stay up to date on the latest advances in the frontend programming field and am always looking for ways to improve my skills and knowledge.<br><br>My passion for creating user-friendly interfaces and my attention to detail make me a valuable asset to any team.<br><br>Also interested in  ( SQL )<br><br>Skills highlights—<br><br>| React JS | Redux | JavaScript | Typescript | HTML | CSS | Git | Bootstrap | Tailwind | Node JS | SQL | Python |
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imtiyaz-sde/) 
