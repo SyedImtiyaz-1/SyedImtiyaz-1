@@ -1,4 +1,4 @@
-[![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://SyedImtiyaz-1.io)
+
 <h1 align="center">Hi 👋, I'm Imtiyaz</h1>
 <h3 align="center">Front-End Developer <span></></span> </h3>
 <img align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedimtiyaz-1&show_icons=true&locale=en" alt="syedimtiyaz-1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedimtiyaz-1&" alt="syedimtiyaz-1" /></p>
+
+[![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://SyedImtiyaz-1.io)
