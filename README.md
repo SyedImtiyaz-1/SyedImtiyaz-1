@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/SyedImtiyaz-1?tab=repositories"</a>
+- 👨‍💻 All of my projects are available at https://github.com/SyedImtiyaz-1?tab=repositories
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
