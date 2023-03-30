@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
-
 - 💬 Ask me about **HTML5, CSS5, JavaScript, Java, Python, SQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/imtiyaz-sde/**
