@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/imtiyaz-sde/**
 
-- 📄 Cureently a **Frontend Developer** at **The Sparks Foundation, Sinagpore (Remote)**
+- 📄 Currently a **Frontend Developer** at **The Sparks Foundation, Sinagpore (Remote)**
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
