@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 💬 Ask me about **HTML5, CSS5, JavaScript, Java, Python, SQL**
+- 💬 Ask me about **Frontend Development, Java, Python, SQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/imtiyaz-sde/**
 
