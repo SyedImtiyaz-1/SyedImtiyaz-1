@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 👨‍💻 All of my projects are available at https://github.com/SyedImtiyaz-1?tab=repositories
-
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
 - 💬 Ask me about **HTML5, CSS5, JavaScript, Java, Python, SQL**
