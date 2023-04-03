@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Imtiyaz</h1>
 
 <h3 align="center">Front-End Developer <span></></span> </h3>
-<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
+<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedImtiyaz-1&label=Profile%20views&color=0e75b6&style=flat" alt="syedimtiyaz-1" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedimtiyaz-1&theme=tokyonight" alt="syedimtiyaz-1" /></a> </p> -->
