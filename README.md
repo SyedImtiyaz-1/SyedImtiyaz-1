@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedImtiyaz-1&label=Profile%20views&color=0e75b6&style=flat" alt="syedimtiyaz-1" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedimtiyaz-1&theme=tokyonight" alt="syedimtiyaz-1" /></a> </p> -->
-
 - 🌱 I’m currently learning **React.js and Node.js**
 
 - 💬 Ask me anything about **Frontend Development, Java, SQL**
@@ -30,9 +28,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedimtiyaz-1&show_icons=true&locale=en" alt="syedimtiyaz-1" /></p> -->
-
-<!-- <p><img align="center" bgcolor:"color:black" src="https://github-readme-streak-stats.herokuapp.com/?user=syedimtiyaz-1&" alt="syedimtiyaz-1" /></p> -->
 | ![Syed Imtiyaz Ali github stats](https://github-readme-stats.vercel.app/api?username=SyedImtiyaz-1&show_icons=true&theme=tokyonight&count_private=true) | ![Syed Imtiyaz Ali GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedimtiyaz-1&theme=tokyonight) |
 | -- | -- |
 
