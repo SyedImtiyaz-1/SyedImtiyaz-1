@@ -30,9 +30,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-<!-- <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedimtiyaz-1&show_icons=true&locale=en&layout=compact" alt="syedimtiyaz-1" /></p> -->
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedimtiyaz-1&show_icons=true&locale=en" alt="syedimtiyaz-1" /></p> -->
 
 <!-- <p><img align="center" bgcolor:"color:black" src="https://github-readme-streak-stats.herokuapp.com/?user=syedimtiyaz-1&" alt="syedimtiyaz-1" /></p> -->
