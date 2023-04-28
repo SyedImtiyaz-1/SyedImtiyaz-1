@@ -8,7 +8,7 @@
 
 - 💬 Ask me anything about **Frontend Development, Java, SQL**
 
-- 📫 How to reach me **https://www.linkedin.com/in/imtiyaz-sde/**
+<!-- - 📫 How to reach me **https://www.linkedin.com/in/imtiyaz-sde/** -->
 
 - 📄 Currently a **Frontend Developer** at **The Sparks Foundation, Sinagpore (Remote)**
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
