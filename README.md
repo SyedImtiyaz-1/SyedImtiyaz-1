@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Imtiyaz</h1>
 <h3 align="center">Front-End Developer <span></></span> </h3>
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
