@@ -25,8 +25,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-| ![Syed Imtiyaz Ali github stats](https://github-readme-stats.vercel.app/api?username=SyedImtiyaz-1&show_icons=true&theme=tokyonight&count_private=true) | ![Syed Imtiyaz Ali GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedimtiyaz-1&theme=tokyonight) |
-| -- | -- |
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
