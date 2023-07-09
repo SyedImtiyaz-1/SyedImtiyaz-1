@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **React.js and Node.js**
 
 
-
 - 💬 Ask me anything about **Frontend Development, Java, SQL**
 <!-- - 📫 How to reach me **https://www.linkedin.com/in/imtiyaz-sde/** -->
 
