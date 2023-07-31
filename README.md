@@ -10,8 +10,6 @@
 
 
 
-
-
 - 💬 Ask me anything about **Frontend Development, Java, SQL**
 <!-- - 📫 How to reach me **https://www.linkedin.com/in/imtiyaz-sde/** -->
 
