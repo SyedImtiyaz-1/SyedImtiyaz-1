@@ -3,11 +3,10 @@
 
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedImtiyaz-1&label=Profile%20views&color=0e75b6&style=flat" alt="syedimtiyaz-1" /> </p>
-- 🌱 I’m currently learning **React.js and Node.js**
 
-
-
-- 💬 Ask me anything about **Frontend Development, Java, SQL**
+- Connect 1:1 with me ➡ https://topmate.io/syedimtiyazali/
+- Open Source 🚀
+- 💬 Ask me anything about **Frontend, Backend, Java, SQL**
 <!-- - 📫 How to reach me **https://www.linkedin.com/in/imtiyaz-sde/** -->
 
 <!-- - 📄 Currently a **Frontend Developer** at **The Sparks Foundation, Sinagpore (Remote)** -->
