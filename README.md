@@ -26,10 +26,12 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-![Syed Imtiyaz Ali github stats](https://github-readme-stats.vercel.app/api?username=SyedImtiyaz-1&show_icons=true&theme=tokyonight&count_private=true) 
+<!-- ![Syed Imtiyaz Ali github stats](https://github-readme-stats.vercel.app/api?username=SyedImtiyaz-1&show_icons=true&theme=tokyonight&count_private=true)  -->
 
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+
+![Imtiyaz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=SyedImtiyaz-1\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 <!-- [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://SyedImtiyaz-1.io) -->
