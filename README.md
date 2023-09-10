@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedImtiyaz-1&label=Profile%20views&color=0e75b6&style=flat" alt="syedimtiyaz-1" /> </p>
 
 
-
 - Connect 1:1 with me ➡ https://topmate.io/syedimtiyazali/
 - Open Source 🚀
 - 💬 Ask me anything about **Frontend, Backend, Java, SQL**
