@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Imtiyaz</h1>
 <h3 align="center">Software Engineer <span></></span> </h3>
 
+
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedImtiyaz-1&label=Profile%20views&color=0e75b6&style=flat" alt="syedimtiyaz-1" /> </p>
 
