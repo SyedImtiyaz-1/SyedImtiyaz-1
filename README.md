@@ -5,7 +5,7 @@
 
 
 - Open Source 🚀
-- 💬 Ask me anything about **MERN, Java, Python, ML**
+- 💬 Ask me anything about **MERN, Java, Python, ML, Svelte**
 - Connect 1:1 with me ➡ https://topmate.io/syedimtiyazali/
 <!-- - 📫 How to reach me **https://www.linkedin.com/in/imtiyaz-sde/** -->
 <!-- - 📄 Currently a **Frontend Developer** at **The Sparks Foundation, Sinagpore (Remote)** -->
