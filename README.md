@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me  
 - 💡 Passionate about **MERN, Java, Python, ML, and Svelte**  
 - 🚀 Exploring Open Source 
-- 🎯 Currently building and solving real-world problems  
+- 🎯 Currently building and solving real-world problems 
 - 🏆 Featured in **Times Square** for mentoring in Open Source & Software Development  
 
 ## 🛠 Tech Stack  
