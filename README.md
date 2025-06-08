@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Imtiyaz 👋</h1> 
-
 <h3 align="center">🚀 Full Stack Developer | Open Source Contributor </h3>  
 
 ## 👨‍💻 About Me  
