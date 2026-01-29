@@ -6,8 +6,8 @@ Engineer who loves building cool stuff.
 
 
 ### Current Projects
-1. **[superlearn.in](https://superlearn.in)** – Short-form microlearning platform (Acquired by **[zupee.in](https://zupee.in)**)  
+1. **[SuperLearn](https://superlearn.in)** – Short-form microlearning platform (Acquired by **[zupee.in](https://zupee.in)**)  
 
-2. **[8prompt.app](https://8prompt.app)** – Realistic AI image generation platform  
+2. **[8prompt](https://8prompt.app)** – Realistic AI image generation platform  
 
-3. **[onlycheat.com](https://onlycheat.com)** – AI-powered interview assistance tool  
+3. **[OnlyCheat](https://onlycheat.com)** – AI-powered interview assistance tool  
