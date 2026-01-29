@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Imtiyaz
+## Hi, I'm Imtiyaz 👋
 Engineer who loves building cool stuff.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://imtiyaz.dev)
