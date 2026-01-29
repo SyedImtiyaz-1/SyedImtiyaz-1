@@ -10,4 +10,4 @@ Engineer who loves building cool stuff.
 
 2. **[8prompt](https://8prompt.app)** – Realistic AI image generation platform  
 
-3. **[OnlyCheat](https://onlycheat.com)** – AI-powered interview assistance tool (120 USD MRR till November 2025 (paused, under heavy maintenance))
+3. **[OnlyCheat](https://onlycheat.com)** – AI-powered interview assistance tool ($120 MRR till November 2025 (paused, under heavy maintenance))
